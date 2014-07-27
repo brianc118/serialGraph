@@ -14,3 +14,5 @@ but default parameters will be used in the absence of arguments
 The number of columns of the input is automatically determined.
 
 Open source under MIT License (MIT)
+
+Requires Python 3+ with pyqtgraph installed. See http://www.pyqtgraph.org/
